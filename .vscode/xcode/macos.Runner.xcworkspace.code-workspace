@@ -1,0 +1,48 @@
+{
+    "folders": [
+        {
+            "name": "weather_app/macos\\Runner.xcworkspace",
+            "path": "../.."
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\web": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\weather_app.iml": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\test": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\README.md": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\pubspec.yaml": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\pubspec.lock": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\linux": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\lib": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\ios": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\build": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\android": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\analysis_options.yaml": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\.metadata": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\.idea": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\.flutter-plugins-dependencies": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\.flutter-plugins": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\.dart_tool": true
+        },
+        "search.exclude": {
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\web": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\weather_app.iml": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\test": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\README.md": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\pubspec.yaml": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\pubspec.lock": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\linux": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\lib": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\ios": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\build": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\android": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\analysis_options.yaml": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\.metadata": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\.idea": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\.flutter-plugins-dependencies": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\.flutter-plugins": true,
+            "..\\..\\Users\\jaisw\\AppData\\Local\\Programs\\Microsoft VS Code\\kaam\\weather_app\\.dart_tool": true
+        }
+    }
+}
